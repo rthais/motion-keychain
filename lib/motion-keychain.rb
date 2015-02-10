@@ -13,6 +13,6 @@ Motion::Project::App.setup do |app|
 
   # For now depending on pod
   app.pods do
-    pod 'UICKeyChainStore'
+    pod 'UICKeyChainStore', '2.0.2'
   end
 end
